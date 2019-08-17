@@ -1,0 +1,71 @@
+
+body{
+	background-image: linear-gradient(rgba(0, 255, 0, 0.6),rgba(0, 0, 255, 0.6));
+	background-repeat: no-repeat;
+}
+.banner {
+	background-image: url(https://myfoodlink.com.au/application/files/5014/9135/5508/InnerPageBannerImage-Supermarket.jpg);
+	height: 130px;
+	width: 90%;
+	margin: 10px auto;
+	color: white;
+	border-bottom: solid rgba(0, 153, 76, 1) 6px;
+	background-size: cover;
+}
+
+.banner h1, .banner h3 {
+	margin-left: 10px;
+
+}
+
+.info {
+
+	width: 600px;
+	margin: 0px auto;
+	
+	line-height: 1.5;
+	position: relative;
+
+}
+
+.img-loc img {
+	margin-left: 15%;
+	
+
+}
+
+.info img {
+	height: 150px;
+	width: 250px;
+	border-radius: 9%;
+}
+
+.footer {
+	width: 90%;
+	margin: 10px auto;
+	border-top: rgb(0, 0, 153) solid 6px;
+}
+
+.button {
+	text-align: center;
+}
+.button a{
+	display: inline-block;
+	padding: 10px;
+	margin: 10px auto;
+	text-decoration: none;
+	color: white;
+	letter-spacing: 2px;
+	font-size: 20px;
+	border-radius: 10px;
+	border: solid 1px white;
+}
+
+.button a:hover {
+
+    background-color: #05A8AA;
+    border: 1px solid #05A8AA;
+    color: #FFF;
+
+}
+

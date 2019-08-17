@@ -1,0 +1,21 @@
+
+html{
+	background-image: linear-gradient(rgba(0, 255, 0, 0.6),rgba(0, 0, 255, 0.6));
+	background-repeat: no-repeat;
+}
+
+.logo {
+	background-image: url(https://www.aldi.us/fileadmin/fm-dam/Services/Customer_Service/ALDI_CustomerService_FP-DP_Desk_v04_0016_Contact_Us.jpg);
+	background-size: 800px 200px;
+	width: 90%;
+	height: 160px ;
+	margin: 10px auto;
+}
+
+.contact {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+	display: block;
+	text-align: center;
+	padding-bottom: 300px;
+}
